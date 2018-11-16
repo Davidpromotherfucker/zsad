@@ -1,6 +1,6 @@
-﻿token=NTEyNzIyMDE4NjA5OTIyMDY1.Ds9lMQ.X0zYw7RHSubkImhiW4rbQraSXzU
-owner=505811134528356352	
-prefix=J
-game= Jhelp
+﻿token=NTEyOTcxODQ3ODEwMTU0NTA3.DtBTuw.bEILvC9GXMlkkwukW9NJ4YI3XpU
+owner=505811134528356352
+prefix=1
+game= 1help
 stayinchannel=true
 songinstatus=true 
